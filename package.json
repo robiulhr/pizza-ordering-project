@@ -10,10 +10,15 @@
   },
   "license": "MIT",
   "dependencies": {
+    "connect-mongodb-session": "^3.1.0",
+    "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
     "express": "^4.17.1",
     "express-ejs-layouts": "^2.5.1",
-    "laravel-mix-favicon": "^0.3.1"
+    "express-flash": "^0.0.2",
+    "express-session": "^1.17.2",
+    "laravel-mix-favicon": "^0.3.1",
+    "mongoose": "^6.0.6"
   },
   "devDependencies": {
     "laravel-mix": "^6.0.31",
